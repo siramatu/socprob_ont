@@ -6,9 +6,9 @@ tagannotate.ttlにRDF形式に基づいてデータを記述することでタ�
 また，トリプルの最後には.をつける．
   
 tag:1 rdf:type oa:Annotation .  
-tag:1 oa:hasTarget <https://www.nikkei.com/article/DGXMZO24103660Q7A131C1CN8000/> .
-tag:1 oa:hasBody sp:パワーハラスメント .
-tag:1 oa:motivatedBy oa:tagging .
+tag:1 oa:hasTarget <https://www.nikkei.com/article/DGXMZO24103660Q7A131C1CN8000/> . 
+tag:1 oa:hasBody sp:パワーハラスメント . 
+tag:1 oa:motivatedBy oa:tagging . 
   
 ただし，トリプルの最後の.の代わりに;を使用することで，次の行の「主語」を省略できる．
   
