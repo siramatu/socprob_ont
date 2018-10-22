@@ -12,3 +12,22 @@ tag:2 rdf:type oa:Annotation;
   oa:hasTarget <https://www.nikkei.com/article/DGXMZO24103660Q7A131C1CN8000/>;
   oa:hasBody geojp:愛知県名古屋市;
   oa:motivatedBy oa:tagging.
+
+
+tag:101 rdf:type oa:Annotation;
+  oa:hasTarget <http://www.jprime.jp/articles/-/9131>;
+  oa:hasBody sp:いじめ;
+  oa:motivatedBy oa:tagging.
+tag:102 rdf:type oa:Annotation;
+  oa:hasTarget <http://www.jprime.jp/articles/-/9131>;
+  oa:hasBody geojp:愛知県一宮市;
+  oa:motivatedBy oa:tagging.
+
+tag:103 rdf:type oa:Annotation;
+  oa:hasTarget <http://www.futoko.info/zzmediawiki/%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%AD%90%E3%81%A9%E3%82%82%E3%81%AE%E8%B2%A7%E5%9B%B0%E5%AF%BE%E7%AD%96%E6%A4%9C%E8%A8%8E%E4%BC%9A%E8%AD%B0>;
+  oa:hasBody sp:チャイルド・プア;
+  oa:motivatedBy oa:tagging.
+tag:104 rdf:type oa:Annotation;
+  oa:hasTarget <http://www.futoko.info/zzmediawiki/%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%AD%90%E3%81%A9%E3%82%82%E3%81%AE%E8%B2%A7%E5%9B%B0%E5%AF%BE%E7%AD%96%E6%A4%9C%E8%A8%8E%E4%BC%9A%E8%AD%B0>;
+  oa:hasBody geojp:愛知県;
+  oa:motivatedBy oa:tagging.
